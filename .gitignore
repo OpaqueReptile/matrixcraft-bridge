@@ -1,0 +1,13 @@
+*.json
+*.java
+*.jar
+*.properties
+*.spec
+*.txt
+build/
+dist/
+logs/
+matrix-python-sdk-master/
+old/
+test/
+world/
